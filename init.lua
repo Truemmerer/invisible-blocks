@@ -40,3 +40,5 @@ minetest.register_node("invisible_blocks:invisible_barriers", {
 	sunlight_propagates = true,
 	drop = "",
 	groups = {unbreakable = 1
+	},
+})
